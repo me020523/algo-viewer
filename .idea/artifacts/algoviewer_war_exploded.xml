@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="algoviewer:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/algoviewer_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="algoviewer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="algoviewer" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
